@@ -57,7 +57,7 @@ Proses menganalisis perangkat lunak untuk mendeteksi perbedaan kondisi perangkat
 - Kanner, Bach, Pettichord
 
 
-Challenge di halaman 28
+### Challenge di halaman 28
 
 Sedang dilakukan pengujian terhadap 2 modul. Didalam modul tersebut hanya ada 1 kelas.
 
@@ -68,3 +68,8 @@ Pengujian pada modul pertama
 Pengujian pada modul kedua,
     mencapai 100% atau 9 dari 9 Line Coverage. Artinya dari seluruh baris kode yang ada, hanya 9 dari 9 baris kode / seluruh abris kode berhasil dieksekusi.
     hanya mencapai 75% atau 3 dari 4 Mutation Coverage. Mutation testing dilakukan untuk menguji apakah sistem dapat mendeteksi perubahan apabila dilakukan perubahan-perubahan kecil dalam unit. Dilakukan pengujian pada 4 mutant, 3 terbunuh karena menyebabkan kegagalan sistem, 1 selamat.
+
+### Challenge di halaman 29
+Di dalam kelas CalculatorServiceImpl, terdapat dua fungsi yaitu add dan substract.
+Pada fungsi add, int a dijumlah dengan int b, nantinya mengembalikan nilai dalam variabel c.
+Pada fungsi add, int a dikurangi dengan int b, nantinya mengembalikan nilai dalam variabel c.
