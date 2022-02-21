@@ -48,3 +48,11 @@ Myths
 Software testers paid less than developers and developers more respected than software testers
 Fact
 Software Testers paid and treated at par with Developers. Career in software testing should never considered as "second rated."
+
+Challenge
+Air 4 Liter bisa didapatkan dengan melakukan beberapa cara :
+
+1. Mengisi 2 ember 5L
+2. Menuang masing" ember 5L ke ember 3L
+3. Tersisa air pada ember 5 L masing masing 2 L
+2 L * 2 = 4 L
