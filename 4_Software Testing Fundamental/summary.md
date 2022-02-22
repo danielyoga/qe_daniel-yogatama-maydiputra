@@ -15,8 +15,7 @@ Proses menganalisis perangkat lunak untuk mendeteksi perbedaan kondisi perangkat
 1. Functional Testing (Manual, Automate)
     Memverifikasi bahwa setiap fungsi aplikasi dapat digunakan sesuai fungsinya dan berjalan dengan baik.
         - Manual Testing : Tester melakukan pengujian semua fitur secara manual tanpa bantuan script atau tools
-        - Automation Testing : Tester melakukan pengujian semua fitur secara otomatis dengan bantuan testing tools,
-                                membandingkan output yang diprediksi dengan output yang dihasilkan sistem.
+        - Automation Testing : Tester melakukan pengujian semua fitur secara otomatis dengan bantuan testing tools, membandingkan output yang diprediksi dengan output yang dihasilkan sistem.
     "The right selection of automation tool, testing process, and team, are important players for automation to be succesful. Manual and automation methods go hand-in-hand for succesful testing."
 
 2. Non-functional Testing (Performance Testing)
