@@ -27,26 +27,26 @@ Test Rails, Test Link, Zephyr, qTest, PractiTest, TcLab
 5. Add Milestone
     Mile Stone : target penting seperti pengujian internal, rilis beta baru, dll
     - Name, References, Parent, Description, Start Date, End Date
-    ![AddMilestone](./screenshots/02 add milestone.png)
+    ![AddMilestone](./screenshots/02addmilestone.png)
 6. Add Test Run
     Tab "TEST RUNS & RESULTS"
     - Untuk mengesksekusi Test Case didalam Milestone yang sudah ditentukan
     - Name : Test Run + Date, choose Milestone, Assign to team member, description
     - include all test : Run all test cases
     - select specific test cases : choose test cases to run
-    ![AddTestRun](./screenshots/03 add test run.png)
+    ![AddTestRun](./screenshots/03addtestrun.png)
 7. Add Test Plan
     Blueprint untuk melakukan testing
     Dokumen yang berisi rencana semua kegiatan testing (Dynamic Document)
     Fill Name, Milestone and Description
     ![AddTestPlan](./screenshots/04 add test plan.png)
-    ![TestPlanOverview](./screenshots/05 Test Plan Overview.png)
+    ![TestPlanOverview](./screenshots/05TestPlanOverview.png)
 8. Add Test Case
     Fill Title, Section, Template, Type, Priority, Automation Type
     - Preconditions     : kondisi sebelum dilakukan testing
     - Steps             : langkah-langkah testing
     - Expected Result   : hasil yang di expect dari testing
     ![AddTestCase](./screenshots/06 add test case.png)
-    ![TestCaseOverview](./screenshots/07 Test Case Overview.png)
+    ![TestCaseOverview](./screenshots/07TestCaseOverview.png)
 9. Add Result after testing
-    ![AddResult](./screenshots/08 add result.png)
+    ![AddResult](./screenshots/08addresult.png)
