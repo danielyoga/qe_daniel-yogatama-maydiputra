@@ -52,6 +52,12 @@ Contoh Test Case dalam Test Scenario :
 Test Scenario = "What to be tested"
 Test Case = "How to be tested"
 
+Scenario : Menguji warna tinta pulpen
+Test Case : Ambil Pulpen, tuliskan di kertas warna putih
+Expected Result : Hasil tulisan berwarna biru
+
+Test Case : Coba pilih produk , apakah hasilnya betul produk itu, harganya sesuai dengan harga produk itu
+
 ## Challenge
 
 [TestScenario.xlsx](./praktikum/TestScenario_sepulsacom.xlsx)
