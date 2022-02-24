@@ -21,7 +21,7 @@ Test Rails, Test Link, Zephyr, qTest, PractiTest, TcLab
 ## How to use TestRail
 1. Login
 2. Add Project
-    [AddProject](./screenshots/01 add project.png)
+![AddProject](./screenshots/01addproject.png)
 3. Input Project Name
 4. Choose use a single repository for all cases
 5. Add Milestone
