@@ -50,3 +50,6 @@ Test Rails, Test Link, Zephyr, qTest, PractiTest, TcLab
     ![TestCaseOverview](./screenshots/07TestCaseOverview.png)
 9. Add Result after testing
     ![AddResult](./screenshots/08addresult.png)
+
+## Challenge
+Link to TestRails : https://qeyogatama.testrail.io/index.php?/projects/overview/1
