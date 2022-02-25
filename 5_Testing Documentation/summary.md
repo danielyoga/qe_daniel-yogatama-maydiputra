@@ -42,6 +42,9 @@
 - Repeatable. Testcase harus bisa menghasilkan hasil yang sama meskipun testing diperlukan berulang kali, dan dilakukan oleh siapa saja.
 - Peer review, test case yang dibuat harus direview orang lain untuk menemukan cacat dalam test case yang bisa saja terjadi.
 
+## Testcase
+Terdiri dari preconditions, steps, expected result, status, actual result
+
 Contoh Test Case dalam Test Scenario :
     Test Scenario -> Check The Login Functionality
         Test Case 1 : Enter valid email and valid password (Disebut Positive Test Case)
