@@ -60,4 +60,4 @@ Link to TestRails : https://qeyogatama.testrail.io/index.php?/projects/overview/
 
 Mohon maaf tidak bisa mencantumkan semua test run dengan jelas karena testrails error sehingga tidak dapat membuka test plan dan test run lainnya
 
-![Error](./screenshots/TestRails Error.png)
+![Error](./screenshots/TestRailsError.png)
