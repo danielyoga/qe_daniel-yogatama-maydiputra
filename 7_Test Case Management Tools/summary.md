@@ -53,3 +53,11 @@ Test Rails, Test Link, Zephyr, qTest, PractiTest, TcLab
 
 ## Challenge
 Link to TestRails : https://qeyogatama.testrail.io/index.php?/projects/overview/1
+
+![Overview](./screenshots/Overview.png)
+![All_TC](./screenshots/All TestCases.png)
+![TC_Run](./screenshots/Project Functionality Test Run 2252022 TC.png)
+
+Mohon maaf tidak bisa mencantumkan semua test run dengan jelas karena testrails error sehingga tidak dapat membuka test plan dan test run lainnya
+
+![Error](./screenshots/TestRails Error.png)
