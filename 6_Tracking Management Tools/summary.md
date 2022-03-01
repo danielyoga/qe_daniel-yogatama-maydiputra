@@ -68,3 +68,7 @@ Software yang digunakan dalam development suatu proyek
     - Lalu kita harus memindahkan issue / story tersebut ke panel in progress
 
 ## Practice
+
+Jira Practice Documented on Docs : https://docs.google.com/document/d/1GaAj5f1CmrHlbhv9Aynn8LwfKR1Hzd8vNkIHORkr0jU/edit?usp=sharing
+
+PDF : ![TestCaseDocumentation](./praktikum/TrackingManagementToolsBugsSimulation.pdf)
