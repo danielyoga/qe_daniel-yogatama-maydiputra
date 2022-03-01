@@ -48,7 +48,9 @@ Software yang digunakan dalam development suatu proyek
 - Pindahkan story ke panel in progress
 
 
-## Task Challenge
+# Task Challenge
+
+## Theori
 1. Apa yang dimaksud dengan Bugs ?
     - Ketidaksesuaian hasil yang diperoleh dengan requirement suatu fitur
 2. Apa yang dimaksud dengan "TO DO" pada JIRA?
@@ -64,3 +66,5 @@ Software yang digunakan dalam development suatu proyek
     - Pada issue tersebut, kita dapat menjelaskan bagaimana kondisi saat ini, serta expected resultnya seperti apa
     - Kita juga dapat menjelaskan langkah-langkah yang kita lakukan untuk melakukan testing
     - Lalu kita harus memindahkan issue / story tersebut ke panel in progress
+
+## Practice
