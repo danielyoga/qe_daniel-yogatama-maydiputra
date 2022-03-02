@@ -57,7 +57,4 @@ Link to TestRails : https://qeyogatama.testrail.io/index.php?/projects/overview/
 ![Overview](./screenshots/Overview.png)
 ![All_TC](./screenshots/AllTestCases.png)
 ![TC_Run](./screenshots/ProjectFunctionalityTestRun2252022TC.png)
-
-Mohon maaf tidak bisa mencantumkan semua test run dengan jelas karena testrails error sehingga tidak dapat membuka test plan dan test run lainnya
-
-![Error](./screenshots/TestRailsError.png)
+![TC_Run](./screenshots/LabelsFunctionalityTestRun2252022.png)
