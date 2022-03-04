@@ -86,7 +86,3 @@ rwx     Read, Write, Execute permissions for all other users
 
 echo '#!/bin/sh' >> my-script.sh
 menambahkan '#!/bin/sh' ke my-script.sh
-
-## Introduction Shell Script
-## Why we learn Shell Script
-## Demo
