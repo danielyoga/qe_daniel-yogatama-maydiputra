@@ -13,7 +13,7 @@
 
 ## Linux Command Structure
 
-command [options] [parameters]
+> command [options] [parameters]
 ls -a/usr
 cd ..
 
