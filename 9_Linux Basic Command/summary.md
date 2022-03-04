@@ -22,7 +22,7 @@ cd ..
 ### File System Commands
 touch /home/usr/doc/html
     membuat file baru kosong, dengan ekstensi file html 
-cat <nama.ekstensi file>
+    cat <nama.ekstensi file>
     membuat daftar konten/isi file pada standard output
 cp test.jpg /home/usr/picture
     menyalin file dari directory saat ini ke directory lain
