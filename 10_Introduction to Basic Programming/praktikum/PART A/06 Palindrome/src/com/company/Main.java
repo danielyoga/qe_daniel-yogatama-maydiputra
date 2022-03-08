@@ -11,8 +11,6 @@ public class Main {
         for (int i = 0; i < mid; i++) {
             char kiri = value.charAt(i);
             char kanan = value.charAt(j);
-//            System.out.printf("Kiri : %c    ", kiri);
-//            System.out.printf("Kanan : %c\n", kanan);
             if ( kiri != kanan ) {
                 palindrome = false;
                 break;
@@ -25,9 +23,11 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println(palindrome("civic")); // true
-        System.out.println(palindrome("katak")); // true
-        System.out.println(palindrome("kasur rusak")); // true
-        System.out.println(palindrome("kupu-kupu")); // false
-        System.out.println(palindrome("lion")); // false
+//        System.out.println(palindrome("katak")); // true
+//        System.out.println(palindrome("kasur rusak")); // true
+//        System.out.println(palindrome("kupu-kupu")); // false
+//        System.out.println(palindrome("lion")); // false
     }
 }
+//            System.out.printf("Kiri : %c    ", kiri);
+//            System.out.printf("Kanan : %c\n", kanan);

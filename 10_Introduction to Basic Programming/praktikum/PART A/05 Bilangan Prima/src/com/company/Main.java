@@ -15,12 +15,12 @@ public class Main {
     }
     public static void main(String[] args) {
 
-        System.out.println(primeNumber (11)); // true
-        System.out.println(primeNumber (13)); // true
-        System.out.println(primeNumber (17)); // true
-        System.out.println(primeNumber (20)); // false
-        System.out.println(primeNumber(35)); // false
-        System.out.println(primeNumber(50)); // false
+        System.out.println(primeNumber (7)); // true
+//        System.out.println(primeNumber (13)); // true
+//        System.out.println(primeNumber (17)); // true
+//        System.out.println(primeNumber (20)); // false
+//        System.out.println(primeNumber(35)); // false
+//        System.out.println(primeNumber(50)); // false
 
     }
 }
