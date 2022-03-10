@@ -80,7 +80,7 @@ rwx     Read, Write, Execute permissions for all other users
 
 
 # Shell Script
--Shell Script, bahasa pemrograman yang dicompile berdasarkan command shell
+- Shell Script, bahasa pemrograman yang dicompile berdasarkan command shell
 - Shell, menjembatani user dan kernal
 - Keuntungan : tidak harus menunggu command pertama selesai di eksekusi, dapat menuliskan beberapa command sekaligus lalu mengeksekusi semuanya
 

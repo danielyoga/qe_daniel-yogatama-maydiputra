@@ -1,0 +1,11 @@
+1, terdapat beberapa objek Mata Kuliah yang digunakan untuk menyimpan (Kode MK, Nama MK, SKS)
+2, objek Dosen dan Mahasiswa yang masing-masing memiliki Nama, ID (NIM/NIP); karena kedua objek ini memiliki fitur yang serupa, turunkan kedua class ini dari sebuah class indukan bernama Civitas;
+3, modifikasi Class Dosen sehingga kita dapat mengetahui MK yang diajar dan siapa saja mahasiswa yang mengikuti MK tersebut; Kalian dapat menyimpannya dalam 1 objek baru (Kuliah) yang menampung MK, Dosen, dan sekumpulan objek mahasiswa;
+4, Dosen dapat memberikan nilai MK untuk masing-masing Mahasiswa pd MK yang diampu;
+5, Dosen dapat meihat seluruh nilai mahasiswa pada MK-MK yang diampunya.
+6, Mahasiswa hanya dapat melihat nilai dirinya sendiri saja; 
+7, Mahasiswa dapat melihat semua nilai pada setiap MK yang diampu berikut IPS yang didapatnya.
+8, turunkan Class Mahasiswa menjadi Alumni, bedanya kali ini mahasiswa memiliki status pekerjaan;
+9, tambahkan fungsi static untuk memfilter mahasiswa yang belum dan sudah bekerja berdasarkan program studinya.
+
+kumpulkan dalam format word, coding dan UML diagramnya.
