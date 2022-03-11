@@ -55,3 +55,7 @@ Menyimpan sekumpulan data secara linear, tidak dapat menerima data yang kembar /
 
 ## Comparing Set
 ![Comparing Set](./screenshots/14Sets.png)
+
+
+# Pengumpulan Challenge
+https://docs.google.com/document/d/1UMLB1VZogb7iIcFseEnZgVYw2_XxB0Pl398hxcX8ijg/edit?usp=sharing
