@@ -86,3 +86,32 @@ Meningkatkan efektifitas script automation
     - Error handling & message
 4. Measure Metrics
     - persentase bug yang ditemukan, waktu testing, indeks kepuasan user
+
+
+# Challenge
+
+![Task 1](screenshots/Task1.png)
+- Dilakukan Test CRUD pada sample REST API
+#4 DELETE posts example
+    Melakukan testing pada API, menggunakan method DELETE (menghapus posts) memerlukan waktu eksekusi selama 880 milisecond
+#2 GET posts example
+    Melakukan testing pada API, menggunakan method GET (mendapatkan posts) memerlukan waktu eksekusi selama 212 milisecond
+#1 POST posts example
+    Melakukan testing pada API, menggunakan method POST (menghapus posts) memerlukan waktu eksekusi selama 786 milisecond
+#4 UPDATE posts example
+    Melakukan testing pada API, menggunakan method PUT (menghapus posts) memerlukan waktu eksekusi selama 764 milisecond
+
+![Task2](screenshots/Task2.png)
+- Testing pada API Petstore lulus 100%
+    artinya API bekerja dengan baik, tidak ada bug ditemukan
+    Test Count 1 -> hanya melakukan 1 pengujian
+
+- Testing pada API Search lulus 75%
+    artinya API bekerja dengan cukup baik, terdapat bug ditemukan
+    Test Count 4 -> dilakukan 4 pengujian
+    Dari 4 Test, 3 yang passed, 1 fail
+
+- Testing pada API Shopping Cart lulus 50%
+    ditemukan bug pada API
+    Test Count 2 -> dilakukan 2 pengujian
+    Dari 2 Test, 1 passed, 1 fail
