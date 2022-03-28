@@ -36,9 +36,3 @@ Deskripsi dalam feature files berperan sebagai test logic yang digunakan tester 
     - Menjelaskan tindakan yang dilakukan oleh user
 3. Then
     - Menjelaskan outcome dari tindakan yang dilakukan user
-
-# What is Cucumber
-
-
-
-# Demo BDD with Cucumber

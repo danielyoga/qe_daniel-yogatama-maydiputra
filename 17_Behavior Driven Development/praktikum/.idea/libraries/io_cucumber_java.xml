@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="io.cucumber.java" type="repository">
+    <properties maven-id="io.cucumber:cucumber-java:6.1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-java/6.1.1/cucumber-java-6.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/6.1.1/cucumber-core-6.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-gherkin/6.1.1/cucumber-gherkin-6.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-gherkin-messages/6.1.1/cucumber-gherkin-messages-6.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/messages/12.1.1/messages-12.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/tag-expressions/3.0.0/tag-expressions-3.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-expressions/10.2.0/cucumber-expressions-10.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/datatable/3.3.1/datatable-3.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-plugin/6.1.1/cucumber-plugin-6.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/docstring/6.1.1/docstring-6.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/html-formatter/6.0.3/html-formatter-6.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
