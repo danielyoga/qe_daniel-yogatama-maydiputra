@@ -6,7 +6,7 @@ import io.cucumber.java.en.When;
 public class StepDefinition {
     @Given("Linkedin Login Page")
     public void loginPage() {
-        System.out.println("Step 1 : I'm on Linkedin Login Page\"");
+        System.out.println("Step 1 : I'm on Linkedin Login Page");
     }
 
     @When("I enter email and password")

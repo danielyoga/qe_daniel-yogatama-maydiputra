@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: starter.CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in starter.CucumberTestSuite
+initializationError(starter.CucumberTestSuite)  Time elapsed: 0.002 s  <<< ERROR!
+com.google.common.util.concurrent.UncheckedExecutionException: java.lang.IllegalStateException: Unable to load cache item
+Caused by: java.lang.IllegalStateException: Unable to load cache item
+Caused by: java.lang.NoClassDefFoundError: Could not initialize class com.google.inject.internal.cglib.core.$MethodWrapper
+
