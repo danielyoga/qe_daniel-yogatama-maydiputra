@@ -75,5 +75,3 @@
 ### Parameterised Scenario
 - Didalam story, skenario dapat digunakan dengan parameter dengan nilai yang dikonfigurasi
 - Scenario dengan parameter sama namun dengan nilai berbeda
-
-###
